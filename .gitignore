@@ -1,10 +1,32 @@
-# Python-generated files
+# Python bytecode e cache
 __pycache__/
 *.py[oc]
+
+# Logs e arquivos temporários
+*.log
+
+# Build e distribuição (pip, wheel, egg)
 build/
 dist/
 wheels/
 *.egg-info
 
-# Virtual environments
-.venv
+# Ambientes virtuais
+.env
+.venv/
+venv/
+
+# Configurações de IDE (ajuste se usar outra IDE)
+.vscode/
+.idea/
+
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários do pytest (se usar)
+.pytest_cache/
+
+# Ignorar arquivos JSON gerados temporariamente
+produtos.json
+checkout_info.json
