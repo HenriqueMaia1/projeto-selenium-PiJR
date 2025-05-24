@@ -16,7 +16,7 @@ wheels/
 .venv/
 venv/
 
-# Configurações de IDE =
+# Configurações de IDE 
 .vscode/
 .idea/
 
