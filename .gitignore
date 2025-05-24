@@ -16,7 +16,7 @@ wheels/
 .venv/
 venv/
 
-# Configurações de IDE (ajuste se usar outra IDE)
+# Configurações de IDE =
 .vscode/
 .idea/
 
@@ -24,7 +24,7 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Arquivos temporários do pytest (se usar)
+# Arquivos temporários do pytest 
 .pytest_cache/
 
 # Ignorar arquivos JSON gerados temporariamente
